@@ -13,3 +13,6 @@ class Usuario:
             if tarea.estaLista():
                 print(f"[X] {tarea.obtenerNombre()}" )
 
+            else:
+                print("forzaremos un conflicto xd")
+
