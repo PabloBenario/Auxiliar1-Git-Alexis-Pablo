@@ -12,4 +12,8 @@ class Usuario:
         for tarea in self.tareas:
             if tarea.estaLista():
                 print(f"[X] {tarea.obtenerNombre()}" )
+<<<<<<< HEAD
                 print(f"[ ] {tarea.obtenerNombre()}" )
+=======
+
+>>>>>>> c71e6b707de5f22170049d36e9530420b32685ff
